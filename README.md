@@ -16,7 +16,7 @@ The primary objective of this project is to model and simulate the harvesting po
 ## Notebooks
 
 ### 1. Historical Distribution
-**Filename:** `historical_distribution.ipynb`
+**Filename:** `Historical_distribution.ipynb`
 
 **Description:**
 This notebook analyzes the historical distribution of climate variables and renewable energy data in Morocco. It includes the following sections:
@@ -43,7 +43,7 @@ This notebook visualizes the bias-corrected climate data to ensure the effective
 
 
 ### 4. Future Projections
-**Filename:** `future_projections.ipynb`
+**Filename:** `Future_projections.ipynb`
 
 **Description:**
 This notebook projects future climate variables and renewable energy potential under different scenarios. It includes:
